@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_kalkulator/models/calculator_model.dart';
 import 'package:flutter_kalkulator/view_models/calculator_view_model.dart';
 import 'package:provider/provider.dart';
 
